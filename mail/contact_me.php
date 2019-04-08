@@ -14,7 +14,7 @@ $Message = strip_tags(htmlspecialchars($_POST['Message']));
 $to = "olivier.villalobo@gmail.com"; // Ajoutez votre adresse email entre "" en remplaçant votrenom@votredomaine.com - C’est ici que le formulaire enverra un message.
 $subject = "Website Contact Form:  $Nom";
 $body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n\nNom: $Nom\n\nMail: $Mail\n\nTéléphone: $Téléphone\n\nMessage:\n$Message";
-$header = "From: olivier.villalobo@gmail.com"; //C'est l'adresse email à partir de laquelle le message généré sera. Nous vous recommandons d’utiliser quelque chose comme noreply@votredomaine.com.
+$header = "From: OlivierVillalobo.github.io"; //C'est l'adresse email à partir de laquelle le message généré sera. Nous vous recommandons d’utiliser quelque chose comme noreply@votredomaine.com.
 $header .= "Reply-To: $Mail";	
 
 if(!mail($to, $subject, $body, $header))
