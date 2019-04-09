@@ -49,7 +49,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #1785bc;
+  background-color: #18BC9C;
 }
 
 hr.star-dark {
@@ -157,11 +157,11 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #1785bc;
+    background: #18BC9C;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #1785bc;
+    background: #18BC9C;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -317,7 +317,7 @@ header.masthead h2 {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #1785bc;
+  color: #18BC9C;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -336,7 +336,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 a {
-  color: #1785bc;
+  color: #18BC9C;
 }
 
 a:focus, a:hover, a:active {
@@ -348,7 +348,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #1785bc !important;
+  background-color: #18BC9C !important;
 }
 
 .bg-secondary {
@@ -356,7 +356,7 @@ a:focus, a:hover, a:active {
 }
 
 .text-primary {
-  color: #1785bc !important;
+  color: #18BC9C !important;
 }
 
 .text-secondary {
@@ -364,8 +364,8 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary {
-  background-color: #1785bc;
-  border-color: #1785bc;
+  background-color: #18BC9C;
+  border-color: #18BC9C;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
